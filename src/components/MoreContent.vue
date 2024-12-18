@@ -1,5 +1,12 @@
 <template>
-  <div class="more-content">您可在此编写任意内容</div>
+  <div class="more-content">
+    <p>放弃了吗？还是继续努力</p>
+    <p>一个安于一隅的主页</p>
+    <p>欢迎您来到我的主页</p>
+    <p>我是一个复杂且些许有趣的人</p>
+  
+  
+  </div>
 </template>
 
 <style lang="scss" scoped>
