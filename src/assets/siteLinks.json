@@ -11,8 +11,8 @@
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "name": "别人的音乐",
+    "link": "https://tool.liumingye.cn/music/"
   },
   {
     "icon": "Compass",
@@ -26,12 +26,12 @@
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
+    "name": "他人的热榜",
     "link": "https://hot.imsyy.top/"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "link": "https://stats.uptimerobot.com/R89tybq05a"
   }
 ]
