@@ -10,5 +10,11 @@
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
     "url": "mailto:ie@ilol.top"
+  },
+  {
+    "name": "联系我",
+    "icon": "/images/icon/telegram.png",
+    "tip": "简单的联系我 ~",
+    "url": "https://lxw.ilol.top"
   }
 ]
