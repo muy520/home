@@ -35,13 +35,13 @@
     "link": "https://iirose.com/"
   }, 
   {
-    "icon": "Fire",
-    "name": "他人的热榜",
-    "link": "https://hot.imsyy.top/"
-  },  
-  {
     "icon": "CompactDisc",
     "name": "别人的音乐",
     "link": "https://tool.liumingye.cn/music/"
   },
+  {
+    "icon": "Fire",
+    "name": "他人的热榜",
+    "link": "https://hot.imsyy.top/"
+  }
 ]
