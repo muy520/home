@@ -1,11 +1,6 @@
 <template>
   <div class="more-content">
-    <p>放弃了吗？还是继续努力</p>
-    <p>一个安于一隅的主页</p>
-    <p>欢迎您来到我的主页</p>
-    <p>我是一个复杂且些许有趣的人</p>
-  
-  
+    <table><tbody><tr><td align="left">性别</td><td align="left">男</td></tr><tr><td align="left">取向</td><td align="left">女</td></tr><tr><td align="left">性格</td><td align="left">i</td></tr><tr><td align="left">最喜欢的网站</td><td align="left">iirose.com</td></tr><tr><td align="left">最喜欢的动漫电影</td><td align="left">你的名字</td></tr><tr><td align="left">国语常听</td><td align="left">许嵩、薛之谦、李荣浩等</td></tr><tr><td align="left">粤语常听</td><td align="left">陈奕迅、谢安琪、郑中基等</td></tr><tr><td align="left">英语常听</td><td align="left">艾薇儿</td></tr></tbody></table>
   </div>
 </template>
 
