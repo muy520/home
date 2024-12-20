@@ -10,11 +10,6 @@
     "link": "https://lzy.ilol.top/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "别人的音乐",
-    "link": "https://tool.liumingye.cn/music/"
-  },
-  {
     "icon": "Compass",
     "name": "导航",
     "link": "https://onenav.ilol.top/"
@@ -25,13 +20,23 @@
     "link": "https://gallery.ilol.top/"
   },
   {
-    "icon": "Fire",
-    "name": "他人的热榜",
-    "link": "https://hot.imsyy.top/"
+    "icon": "mind",
+    "name": "思维导图",
+    "link": "https://mind.ilol.top"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
     "link": "https://stats.uptimerobot.com/R89tybq05a"
-  }
+  },
+  {
+    "icon": "Fire",
+    "name": "他人的热榜",
+    "link": "https://hot.imsyy.top/"
+  },  
+  {
+    "icon": "CompactDisc",
+    "name": "别人的音乐",
+    "link": "https://tool.liumingye.cn/music/"
+  },
 ]
