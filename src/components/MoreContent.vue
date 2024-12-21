@@ -1,9 +1,10 @@
 <template>
   <div class="more-content">
-    Hi! My name is MuYang, When I'm free, I enjoy video game, watching movies and anime, and listening to music. <br />
-    I also read on useful/useless information from time to time.<br />
-    If you're interested, please checkout my personal <a href="https://blog.ilol.top">blog</a> where I share my ordinary yet joyful life. <br />
-    Feel free to contact me via <a href="mailto:i@ilol.top">Email</a>
+    Hi! My name is MuYang, When I'm free, I enjoy video game, watching movies and anime, and listening to music. <br /><br />
+    I also read on useful/useless information from time to time.<br /><br />
+    If you're interested, please checkout my personal <a href="https://blog.ilol.top" style="display: contents;color: #088">blog</a> where I share my ordinary yet joyful life. <br /><br />
+    Feel free to contact me via <a href="mailto:i@ilol.top" style="display: contents;color: #088">Email</a>
+    <!-- Copied from https://www.imalan.cn/ -->
   </div>
 </template>
 
